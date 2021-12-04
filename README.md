@@ -1,13 +1,11 @@
 # Weakly-Supervised Image Semantic Segmentation Using Graph Convolutional Networks (ICME 2021)
 
+Forked from https://github.com/Xavier-Pan/WSGCN
 An Official Pytorch Implementation of WSGCN-I. WSGCN-I is heavily based on [1] and [2]. 
 
 Project Page: [Link](http://mapl.nctu.edu.tw/WSGCN/)
 
 Paper (arXiv): [Link](https://arxiv.org/abs/2103.16762)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/weakly-supervised-image-semantic-segmentation/weakly-supervised-semantic-segmentation-on-1)](https://paperswithcode.com/sota/weakly-supervised-semantic-segmentation-on-1?p=weakly-supervised-image-semantic-segmentation)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/weakly-supervised-image-semantic-segmentation/weakly-supervised-semantic-segmentation-on)](https://paperswithcode.com/sota/weakly-supervised-semantic-segmentation-on?p=weakly-supervised-image-semantic-segmentation)
 
 
 ## Prerequisite
